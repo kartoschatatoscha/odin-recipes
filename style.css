@@ -1,0 +1,18 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+.recipelink {
+    color: rgb(207, 219, 39);
+}
+.heading.home {
+    color: rgb(91, 189, 189);
+}
+.heading.sub {
+    font-style: italic;
+}
+.heading.sub.add {
+    text-decoration: underline;
+}
+.number {
+    text-decoration:overline;
+}
